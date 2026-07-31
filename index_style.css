@@ -1,9 +1,12 @@
 nav {
   margin: 10px;
   display: flex;
-  gap: 20px;
 }
 
 #nav-heading {
   padding: 10px 90px 20px 90px;
+}
+
+#nav-links {
+  padding: 40px 15px 20px 15px;
 }
