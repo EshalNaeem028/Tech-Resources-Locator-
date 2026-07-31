@@ -2,7 +2,6 @@ nav {
   margin: 10px;
   display: flex;
 }
-
 #nav-heading {
   padding: 10px 100px 20px 40px;
 }
@@ -22,10 +21,7 @@ h2{
     text-align:center;
 
 }
-h3{
-     font-size:30px;
-     text-align:center;
-}
+
 p{
     text-align:center;
 
