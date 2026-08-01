@@ -26,6 +26,11 @@ p{
     text-align:center;
 
 }
+.about-card{
+    display:flex;
+    justify-content:center;
+    align-items:center;
+}
 
 .about-container{
     padding: 15px;
