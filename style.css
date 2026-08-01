@@ -26,3 +26,10 @@ p{
     text-align:center;
 
 }
+
+.about-container{
+    padding: 20px;
+    margin: 20px;
+    border-radius: 10px;
+    background-color: #2ea043;
+}
