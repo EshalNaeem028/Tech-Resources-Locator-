@@ -28,8 +28,12 @@ p{
 }
 
 .about-container{
-    padding: 20px;
-    margin: 20px;
+    padding: 15px;
+    margin: 10px;
     border-radius: 5px;
-    background-color: #2ea043;
+    width:600px;
+    background-color: #f2f2f2;
+   
+   
+    
 }
