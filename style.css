@@ -54,3 +54,10 @@ nav {
     justify-content:center;
     align-items:center;
 }
+.team-member{
+    padding: 15px;
+    margin: 10px;
+    border-radius: 5px;
+    width:300px;
+    background-color: #f2f2f2;
+}
