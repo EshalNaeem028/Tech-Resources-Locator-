@@ -49,3 +49,8 @@ nav {
    
     
 }
+.project-team{
+    display:flex;
+    justify-content:center;
+    align-items:center;
+}
