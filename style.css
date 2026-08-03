@@ -68,6 +68,12 @@ nav {
     font-weight: bold;
 
 }
+.team-member h3{
+    font-size:20px;
+    text-align:center;
+     font-weight: bold;
+
+}
 .team-member p{
     text-align:center;
 }
