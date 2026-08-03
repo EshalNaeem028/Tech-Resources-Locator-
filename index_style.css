@@ -31,3 +31,7 @@ nav {
 
   font-weight: 500;
 }
+
+.nav-menu a:hover {
+  color: #2563eb;
+}
