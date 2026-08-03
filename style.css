@@ -131,6 +131,14 @@ nav {
             Asra Fatma
    ========================================================== */
 
+
+.platforms-body{
+    font-family: 'Poppins', sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #090d16;
+}
+
 .platforms-header{
     text-align: center;
     margin: 0px;
@@ -162,3 +170,4 @@ nav {
     text-decoration: none;
     border-radius: 5px;
 }
+
