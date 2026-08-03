@@ -125,3 +125,16 @@ nav {
 .icon i:hover, .email i:hover {
     color:grey;
 }
+
+
+/* ==========================================================
+            Asra Fatma
+   ========================================================== */
+
+.platforms-header{
+    text-align: center;
+    margin: 0px;
+    padding: 40px 20px 20px;
+    background: linear-gradient(135deg, #0f172a, #2ea043);
+    color: white;
+}
