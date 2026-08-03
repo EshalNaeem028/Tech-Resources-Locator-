@@ -186,7 +186,9 @@ nav {
 .platform-card{
     background-color: #1e293b;
     color: white;
-    width: 300px;
+    max-width: 300px;
+    max-height: 400px;
+    text-align: center;
     margin: 15px;
     padding: 20px;
     border-radius: 10px;
@@ -213,3 +215,5 @@ nav {
     font-size: 16px;
     margin-bottom: 15px;
 }
+
+
