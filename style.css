@@ -198,3 +198,8 @@ nav {
     transform: translateY(-5px);
     box-shadow: 0 8px 16px rgba(0,0,0,0.3);
 }
+
+.platform-icon{
+    font-size: 50px;
+    margin-bottom: 15px;
+}
