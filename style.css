@@ -225,3 +225,15 @@ nav {
     justify-content: center;
 }
 
+.open-section{
+    display: block;
+    font-size: 14px;
+    color: #2ea043;
+    font-weight: bold;
+}
+
+.open-section:hover{
+    text-decoration: underline;
+    cursor: pointer;
+}
+
