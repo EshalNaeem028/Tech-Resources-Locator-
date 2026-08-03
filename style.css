@@ -95,3 +95,8 @@ nav {
     font-size: 42px;
     color: #2563eb;              
 }
+.project-team-heading h1{
+    font-size: 30px;
+    text-align: center;
+    font-weight: bold;
+}
