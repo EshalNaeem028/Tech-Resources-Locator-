@@ -17,3 +17,9 @@ nav {
 
   padding: 20px 80px;
 }
+
+.nav-menu {
+  display: flex;
+
+  gap: 30px;
+}
