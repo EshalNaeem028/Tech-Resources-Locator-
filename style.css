@@ -58,7 +58,8 @@ nav {
     padding: 15px;
     margin: 10px;
     border-radius: 5px;
-    width:300px;
+    width:auto;
+   height:300px;
     background-color: #f2f2f2;
 }
 
@@ -76,4 +77,21 @@ nav {
 }
 .team-member p{
     text-align:center;
+}
+.profile-icon{
+    width: 110px;
+    height: 110px;
+    border-radius: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 0 auto 20px;
+    border: 4px solid white;
+    box-shadow: 0 2px 8px rgba(0,0,0,0.15);
+}
+
+
+.profile-icon i{
+    font-size: 42px;
+    color: #2563eb;              
 }
