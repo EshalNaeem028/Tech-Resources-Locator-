@@ -105,8 +105,18 @@ nav {
 .icon i{
     font-size: 24px;
     color: blue;
-    margin:0 10px;
+
+}
+.email i{
+    font-size: 24px;
+    color: blue;
+    
+   
+}
+.social-icons{
     display: flex;
     justify-content: center;
     align-items: center;
+    margin-top: 10px;
+    gap:20px;
 }
