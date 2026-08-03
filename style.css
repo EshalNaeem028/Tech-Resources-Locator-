@@ -182,3 +182,14 @@ nav {
     justify-content: center;
     padding: 20px;
 }
+
+.platform-card{
+    background-color: #1e293b;
+    color: white;
+    width: 300px;
+    margin: 15px;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0,0,0,0.2);
+    transition: transform 0.3s, box-shadow 0.3s;
+}
