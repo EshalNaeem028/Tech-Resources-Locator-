@@ -216,4 +216,9 @@ nav {
     margin-bottom: 15px;
 }
 
+.platforms-section{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
 
