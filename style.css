@@ -171,3 +171,8 @@ nav {
     border-radius: 5px;
 }
 
+.back-link:hover{
+    background-color: #237732;
+    transition: background-color 0.3s;
+}
+
