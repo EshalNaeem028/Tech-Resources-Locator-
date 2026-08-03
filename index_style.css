@@ -23,3 +23,11 @@ nav {
 
   gap: 30px;
 }
+
+.nav-menu a {
+  text-decoration: none;
+
+  color: black;
+
+  font-weight: 500;
+}
