@@ -121,3 +121,6 @@ nav {
     margin-top: 10px;
     gap:20px;
 }
+.icon i:hover, .email i:hover {
+    color:grey;
+}
