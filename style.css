@@ -176,3 +176,9 @@ nav {
     transition: background-color 0.3s;
 }
 
+.platforms-main{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    padding: 20px;
+}
