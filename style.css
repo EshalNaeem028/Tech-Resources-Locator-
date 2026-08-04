@@ -189,7 +189,10 @@ body{
     text-align: center;
     font-family: 'Poppins', sans-serif;
 }
-
+.about-hero h1 {
+    font-size: 48px;
+    margin-bottom: 20px;
+}
 
 /* ==========================================================
             Asra Fatma
