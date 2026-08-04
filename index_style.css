@@ -51,3 +51,16 @@ nav {
   font-size: 20px;
   margin-bottom: 30px;
 }
+
+.cta-button {
+  background-color: #090d16;
+  color: #2ea043;
+  padding: 12px 30px;
+  text-decoration: none;
+  font-weight: bold;
+  border-radius: 5px;
+  transition:
+    background-color 0.3s,
+    color 0.3s;
+  display: inline-block;
+}
