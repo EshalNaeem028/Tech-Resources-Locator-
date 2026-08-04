@@ -119,6 +119,7 @@ body{
 .team-member p{
     text-align:center;
     font-family:'Poppins',sans-serif;
+    color:#f0f6fc;
 }
 .profile-icon{
     width: 110px;
