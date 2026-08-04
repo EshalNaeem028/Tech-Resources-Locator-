@@ -182,6 +182,13 @@ body{
 .icon i:hover, .email i:hover {
     color:grey;
 }
+.about-hero {
+    background: linear-gradient(135deg, #0f172a, #2ea043);
+    color: white;
+    padding: 60px 20px;
+    text-align: center;
+    font-family: 'Poppins', sans-serif;
+}
 
 
 /* ==========================================================
