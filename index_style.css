@@ -45,11 +45,13 @@ nav {
 .home-hero h1 {
   font-size: 48px;
   margin-bottom: 20px;
+  background-color: transparent !important;
 }
 
 .home-hero p {
   font-size: 20px;
   margin-bottom: 30px;
+  background-color: transparent !important;
 }
 
 .cta-button {
