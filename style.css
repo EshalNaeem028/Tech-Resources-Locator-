@@ -41,6 +41,7 @@
     text-align: center;
     font-weight: bold;
     
+    
 
 }
 .about-card h2{
@@ -66,7 +67,8 @@
     padding: 15px;
     margin: 10px;
     border-radius: 5px;
-    width:600px;
+    width:800px;
+    height:400px;
     background-color: #f2f2f2;
    
    
