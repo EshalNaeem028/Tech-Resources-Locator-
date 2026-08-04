@@ -35,6 +35,9 @@
 .nav-menu a:hover {
   color: #2563eb;
 }
+body{
+    background-color: #090d16;
+}
 
 .about-card h1{
     font-size:25px;
