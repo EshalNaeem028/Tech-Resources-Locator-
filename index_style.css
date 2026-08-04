@@ -64,3 +64,8 @@ nav {
     color 0.3s;
   display: inline-block;
 }
+
+.cta-button:hover {
+  background-color: #2ea043;
+  color: white;
+}
