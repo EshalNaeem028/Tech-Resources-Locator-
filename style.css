@@ -132,6 +132,7 @@
 .project-team-heading h1{
     font-size: 40px;
     text-align: center;
+    flex-direction: row;
     font-weight: bold;
     font-family:'Poppins', sans-serif;
     margin-bottom:30px;
@@ -149,11 +150,12 @@
     
    
 }
+
 .social-icons{
     display: flex;
     justify-content: center;
     align-items: center;
-    margin-top: 10px;
+    margin-top: 20px;
     gap:20px;
 }
 .icon i:hover, .email i:hover {
