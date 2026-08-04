@@ -155,8 +155,15 @@ body{
     flex-direction: row;
     font-weight: bold;
     font-family:'Poppins', sans-serif;
-    margin-bottom:30px;
+   
     color:#f0f6fc;
+}
+.project-team-heading h2{
+    display:flex;
+    justify-content:center;
+    align-items:center;
+    margin-bottom:30px;;
+    color:#2ea043;
 }
 
 
@@ -197,6 +204,7 @@ body{
     font-size: 20px;
     line-height: 1.6;
 }
+
 
 /* ==========================================================
             Asra Fatma
