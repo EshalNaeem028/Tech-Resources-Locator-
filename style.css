@@ -193,6 +193,10 @@ body{
     font-size: 48px;
     margin-bottom: 20px;
 }
+.about-hero p {
+    font-size: 20px;
+    line-height: 1.6;
+}
 
 /* ==========================================================
             Asra Fatma
