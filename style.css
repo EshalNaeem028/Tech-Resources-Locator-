@@ -80,6 +80,7 @@
     display:flex;
     justify-content:center;
     align-items:center;
+    
 }
 .team-member{
     padding: 15px;
@@ -126,9 +127,10 @@
     color: #2563eb;              
 }
 .project-team-heading h1{
-    font-size: 30px;
+    font-size: 40px;
     text-align: center;
     font-weight: bold;
+    font-family:'Poppins', sans-serif;
 }
 
 
