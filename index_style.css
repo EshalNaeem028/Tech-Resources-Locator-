@@ -134,3 +134,14 @@ nav {
   line-height: 1.5;
   background-color: transparent !important;
 }
+
+/* ==========================================================
+   FOOTER
+   ========================================================== */
+.home-footer {
+  text-align: center;
+  padding: 30px 20px;
+  border-top: 1px solid #1e293b;
+  margin-top: 40px;
+  color: #8b949e;
+}
