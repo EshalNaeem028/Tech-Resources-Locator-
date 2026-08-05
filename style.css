@@ -7,6 +7,7 @@
   margin: 0;
   padding: 0;
   box-sizing: border-box;
+  color:#f0f6fc;
 }
    nav {
   display: flex;
@@ -22,12 +23,13 @@
   display: flex;
 
   gap: 30px;
+  
 }
 
 .nav-menu a {
   text-decoration: none;
 
-  color: black;
+ color:#f0f6fc;
 
   font-weight: 500;
 }
@@ -256,8 +258,7 @@ body{
     border-radius:5px;
     color:#2ea043;
     font-family:'Poppins', sans-serif;
-
-}
+    }
 .contact-form button{
     padding:20px;
     border-radius:5px;
@@ -285,6 +286,7 @@ body{
     color:#2ea043;
     font-family:'Poppins', sans-serif;
 }
+
 
 /* ==========================================================
             Asra Fatma
