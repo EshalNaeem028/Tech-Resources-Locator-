@@ -5,14 +5,43 @@
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
         <title>Contact Us</title>
             <link rel="stylesheet" href="style.css">
+            <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;600;700;800&display=swap" rel="stylesheet">
     </head>
     <body>
-        <nav>
- <h1 id="nav-heading">Tech Resources Locator</h1>
-      <a href="platforms.html" id="nav-links">Platforms</a>
-      <a href="categories.html" id="nav-links">Categories</a>
-      <a href="contact.html" id="nav-links">Contact</a>
-      <a href="about.html" id="nav-links">About</a>
+     <nav>
+       <h1 id="nav-heading">Tech Resources Locator</h1>
+
+      <div class="nav-menu">
+        <a href="index.html">Home</a>
+        <a href="categories.html">Categories</a>
+        <a href="platforms.html">Resources</a>
+        <a href="about.html">About</a>
+        <a href="contact.html">Contact</a>
+    </div>
     </nav>
+
+    <div class="container">
+
+        <h1>Contact & Resource Submission</h1>
+        <p>Have a question or want to submit a resource?<br> Fill out the form below and we'll
+             get back to you as soon as possible!</p>
+
+             <form class="contact-form" action="submit_form.php" method="POST">
+                <label for="name">Name:</label>
+                <input type="text" id="name" name="name" required>
+
+                <label for="email">Email:</label>
+                <input type="email" id="email" name="email" required>
+               
+                <label for="subject">Subject:</label>
+                <input type="text" id="subject" name="subject" required>
+
+                <label for="message">Message:</label>
+                <textarea id="message" name="message" rows="5" required></textarea>
+
+                <button type="submit">Submit</button>
+    
+        
+    </div>
     </body>
 </html>
