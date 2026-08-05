@@ -136,6 +136,100 @@ nav {
 }
 
 /* ==========================================================
+   TRENDING RESOURCES SECTION
+   ========================================================== */
+.trending-section {
+  padding: 60px 20px;
+  background-color: #090d16;
+}
+
+.trending-list {
+  max-width: 800px;
+  margin: 0 auto;
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+}
+
+.trending-item {
+  background-color: #1e293b;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 20px 25px;
+  border-radius: 8px;
+  border-left: 5px solid #2ea043;
+  transition:
+    transform 0.2s,
+    background-color 0.2s;
+}
+
+.trending-item:hover {
+  transform: translateX(5px);
+  background-color: #243248;
+}
+
+.item-info {
+  background-color: transparent !important;
+}
+
+.item-info h4 {
+  font-size: 18px;
+  color: #f0f6fc;
+  margin-bottom: 5px;
+  background-color: transparent !important;
+}
+
+.item-info p {
+  font-size: 14px;
+  color: #8b949e;
+  background-color: transparent !important;
+}
+
+.item-link {
+  color: #2ea043;
+  text-decoration: none;
+  font-weight: bold;
+  font-size: 15px;
+  transition: color 0.2s;
+  background-color: transparent !important;
+}
+
+.item-link:hover {
+  color: #f0f6fc;
+}
+
+/* ==========================================================
+   BOTTOM CTA SECTION
+   ========================================================== */
+.bottom-cta {
+  text-align: center;
+  padding: 70px 20px;
+  background-color: #1e293b;
+  margin: 60px auto 40px auto;
+  max-width: 1000px;
+  border-radius: 16px;
+  box-shadow: 0 4px 15px rgba(0, 0, 0, 0.3);
+}
+
+.bottom-cta h2 {
+  font-size: 32px;
+  color: #f0f6fc;
+  margin-bottom: 15px;
+  background-color: transparent !important;
+}
+
+.bottom-cta p {
+  font-size: 18px;
+  color: #8b949e;
+  margin-bottom: 30px;
+  max-width: 600px;
+  margin-left: auto;
+  margin-right: auto;
+  background-color: transparent !important;
+}
+
+/* ==========================================================
    FOOTER
    ========================================================== */
 .home-footer {
