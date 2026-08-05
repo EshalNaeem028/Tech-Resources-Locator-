@@ -269,7 +269,11 @@ body{
     font-size:18px;
     
 }
-
+.contact-form button:hover{
+    background-color: #2ea043;
+    color:white;
+    transition: background-color 0.3s, color 0.3s;
+}
 .contact-info{
     flex:1;
     gap: 10px;
