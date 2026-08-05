@@ -234,6 +234,7 @@ body{
 
 }
 .contact-form{
+    flex:1;
     display: flex;
     flex-direction: column;
     gap: 18px;
@@ -270,7 +271,7 @@ body{
 }
 
 .contact-info{
-    
+    flex:1;
     gap: 10px;
     max-width: 600px;
     margin: 20px auto 0;
