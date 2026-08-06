@@ -260,11 +260,12 @@ body{
 }
 
 .contact-form input,.contact-form textarea {
+    width:100%;
     padding: 12px;
     border: 1px solid #ccc;
     border-radius:8px;
-    color:#2ea043;
-    font-family:'Poppins', sans-serif;
+    
+ 
     }
 .contact-form button{
     padding:20px;
