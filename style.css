@@ -285,17 +285,13 @@ body{
 }
 .contact-info{
     flex:1;
-    gap: 10px;
-    max-width: 600px;
-    margin: 20px auto 0;
-    padding: 20px;
+    
+    padding: 10px;
     border-radius: 5px;
     background-color: #131b27;
     color: #f0f6fc;
-    font-family:'Poppins', sans-serif;
-    justify-content: center;
-    align-items: center;
-      border-radius:15px;
+    
+      border-radius:20px;
 
 }
 .contact-info h2{
