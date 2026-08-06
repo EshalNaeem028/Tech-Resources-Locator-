@@ -262,7 +262,7 @@ body{
 .contact-form input,.contact-form textarea {
     padding: 12px;
     border: 1px solid #ccc;
-    border-radius:5px;
+    border-radius:8px;
     color:#2ea043;
     font-family:'Poppins', sans-serif;
     }
