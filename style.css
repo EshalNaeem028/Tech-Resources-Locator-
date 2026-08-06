@@ -283,7 +283,7 @@ body{
     padding: 20px;
     border-radius: 5px;
     background-color: #131b27;
-    color:#2ea043;
+    color: #f0f6fc;
     font-family:'Poppins', sans-serif;
     justify-content: center;
     align-items: center;
@@ -293,6 +293,9 @@ body{
     margin-bottom: 10px;
     text-align: center;
     font-family:'Poppins', sans-serif;
+
+}
+.contact-info p{
     
 }
 
