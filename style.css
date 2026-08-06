@@ -446,8 +446,10 @@ body{
 }
 
 .open-section:hover{
+    letter-spacing: 1px;
     text-decoration: underline;
     cursor: pointer;
+    transition: letter-spacing 0.3s, text-decoration 0.3s;
 }
 
 #nav-heading{
