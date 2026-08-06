@@ -427,8 +427,8 @@ body{
 }
 
 .platform-title:hover{
-    transform: translateY(-3px);
     transition: transform 0.3s ease;
+    transform: translateY(-3px);
 }
 
 .platform-description{
