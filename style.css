@@ -242,16 +242,19 @@ body{
     align-items:flex-start;
     gap:40px;
     flex-wrap:nowrap;
-    width:100%;
+   
   
     
 }
 .contact-form{
     
-   flex:2;
+   max-width:550px;
+   width:60%;
+
    background:white;
    padding:30px;
    border-radius:20px;
+   
     
 }
 .contact-form form{
@@ -285,7 +288,8 @@ body{
     transition: background-color 0.3s, color 0.3s;
 }
 .contact-info{
-    flex:1;
+    max-width:400px;
+    width:40%;
     
     padding: 10px;
     border-radius: 5px;
