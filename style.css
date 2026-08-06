@@ -330,7 +330,10 @@ body{
     font-size: 20px;
     color: #2ea043;
 }
-
+.info-item p{
+    margin: 0;
+    font-family:'Poppins', sans-serif;
+}
 
 /* ==========================================================
             Asra Fatma
