@@ -426,6 +426,11 @@ body{
     margin-bottom: 10px;
 }
 
+.platform-title:hover{
+    transform: translateY(-3px);
+    transition: transform 0.3s ease;
+}
+
 .platform-description{
     display: block;
     font-size: 13px;
