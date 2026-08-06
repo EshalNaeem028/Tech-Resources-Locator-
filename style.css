@@ -231,7 +231,8 @@ body{
   display:block;
   background-color: #1e293b;
   border-radius: 24px;
-  color:#f0f6fc;
+  color:#2ea043;
+  font-family: 'Poppins', sans-serif;
 
 
 }
@@ -264,7 +265,7 @@ body{
     padding: 12px;
     border: 1px solid #ccc;
     border-radius:8px;
-    
+   
  
     }
 .contact-form button{
