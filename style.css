@@ -239,11 +239,8 @@ body{
      display:flex;
     justify-content:center;
     align-items:flex-start;
-    gap:30px;
-     background-color: #1e293b;
-  border-radius: 24px;
-  color:#f0f6fc;
-    
+    gap:40px;
+  
     
 }
 .contact-form{
