@@ -450,3 +450,13 @@ body{
     cursor: pointer;
 }
 
+#nav-heading{
+    color: #f0f6fc;
+}
+
+.nav-bar{
+    height: 75px;
+}
+
+
+
