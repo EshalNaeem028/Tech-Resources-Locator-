@@ -253,6 +253,11 @@ body{
    border-radius:20px;
     
 }
+.contact-form form{
+    display:flex;
+    flex-direction:column;
+    gap:18px;
+}
 
 .contact-form input,.contact-form textarea {
     padding: 10px;
