@@ -233,7 +233,7 @@ body{
   border-radius: 24px;
   color:#2ea043;
   font-family: 'Poppins', sans-serif;
-  text-transform: uppercase;
+ 
   font-weight:bold;
 
 
@@ -264,7 +264,12 @@ body{
     flex-direction:column;
     gap:18px;
 }
-
+.contact-form label{
+    font-family:'Poppins', sans-serif;
+    font-weight: bold;
+    color:#2ea043;
+     text-transform: uppercase;
+}
 .contact-form input,.contact-form textarea {
     width:100%;
     padding: 12px;
