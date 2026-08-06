@@ -285,6 +285,8 @@ body{
     background-color: #131b27;
     color:#2ea043;
     font-family:'Poppins', sans-serif;
+    justify-content: center;
+    align-items: center;
 }
 
 
