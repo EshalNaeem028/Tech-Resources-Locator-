@@ -287,6 +287,8 @@ body{
     font-family:'Poppins', sans-serif;
     justify-content: center;
     align-items: center;
+      border-radius:15px;
+
 }
 .contact-info h2{
     font-size: 24px;
@@ -300,7 +302,7 @@ body{
     text-align: left;
     font-family:'Poppins', sans-serif;
     color:#e3b341;
-
+  
 }
 
 
