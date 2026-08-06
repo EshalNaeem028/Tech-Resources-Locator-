@@ -235,6 +235,17 @@ body{
 
 
 }
+.contact-container{
+     display:flex;
+    justify-content:center;
+    align-items:center;
+    gap:30px;
+     background-color: #1e293b;
+  border-radius: 24px;
+  color:#f0f6fc;
+    
+    
+}
 .contact-form{
     flex:1;
     display: flex;
@@ -250,6 +261,7 @@ body{
     font-family:'Poppins', sans-serif;
     text-transform: uppercase;
     font-weight: bold;
+    
 }
 
 .contact-form input,.contact-form textarea {
