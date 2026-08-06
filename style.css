@@ -369,7 +369,7 @@ body{
 .back-link{
     display: inline-block;
     position:absolute;
-    top: 40px;
+    top: 100px;
     left: 40px;
     margin-top: 0.5px;
     padding: 10px 20px;
@@ -378,6 +378,8 @@ body{
     color: white;
     text-decoration: none;
     border-radius: 5px;
+    font-weight: bold;
+    font-size: 14px;
 }
 
 .back-link:hover{
