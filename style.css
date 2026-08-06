@@ -241,26 +241,16 @@ body{
     align-items:flex-start;
     gap:40px;
     flex-wrap:nowrap;
+    width:100%;
   
     
 }
 .contact-form{
     
-    display: flex;
-    flex-direction: column;
-    gap: 18px;
-    max-width: 600px;
-    margin: 0 auto;
-    background-color: white;
-    padding: 30px;
-    width:100%;
-   border-radius: 24px;
-    color:#2ea043;
-    font-family:'Poppins', sans-serif;
-    text-transform: uppercase;
-    font-weight: bold;
-    justify-content: center;
-    align-items: baseline;
+   flex:2;
+   background:white;
+   padding:30px;
+   border-radius:20px;
     
 }
 
