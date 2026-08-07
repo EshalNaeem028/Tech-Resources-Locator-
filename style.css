@@ -351,12 +351,20 @@ body{
     border-radius:20px;
     font-family:'Poppins', sans-serif;
     color:#f0f6fc;
+    padding:25px;
+    
 }
 .faq-item p{
      text-align: left;
      font-family:'Poppins', sans-serif;
      color:#2ea043;
 
+}
+contact-right{
+    display:flex;
+    flex-direction:column;
+    gap:20px;
+  width:40%;
 }
 
 /* ==========================================================
