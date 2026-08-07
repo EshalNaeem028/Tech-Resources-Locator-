@@ -304,6 +304,15 @@ body{
     color:white;
     transition: background-color 0.3s, color 0.3s;
 }
+
+.contact-right{
+    display:flex;
+    flex-direction:column;
+    gap:20px;
+  width:40%;
+  max-width:400px;
+}
+
 .contact-info{
     max-width:400px;
     width:40%;
@@ -365,12 +374,7 @@ body{
      color:#2ea043;
 
 }
-.contact-right{
-    display:flex;
-    flex-direction:column;
-    gap:20px;
-  width:40%;
-}
+
 
 /* ==========================================================
             Asra Fatma
