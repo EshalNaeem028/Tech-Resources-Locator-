@@ -356,7 +356,7 @@ body{
     flex-direction:column;
     gap:10px;
     margin-top:30px;
-    width:60%;
+    width:100%;
     max-width:550px;
     background-color: #131b27;
     text-align:center;
@@ -364,6 +364,7 @@ body{
     font-family:'Poppins', sans-serif;
     color:#f0f6fc;
     padding:25px;
+    box-sizing:border-box;
 
 }
 .faq-item p{
