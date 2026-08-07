@@ -348,6 +348,7 @@ body{
     max-width:500px;
     background-color: #131b27;
     text-align: left;
+    border-radius:20px;
 }
 .faq-question p{
      text-align: left;
