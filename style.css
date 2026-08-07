@@ -248,6 +248,7 @@ body{
     justify-content:center;
     align-items:flex-start;
     gap:40px;
+    width:100%;
     flex-wrap:nowrap;
    
   
@@ -352,7 +353,7 @@ body{
     font-family:'Poppins', sans-serif;
     color:#f0f6fc;
     padding:25px;
-    
+
 }
 .faq-item p{
      text-align: left;
@@ -360,7 +361,7 @@ body{
      color:#2ea043;
 
 }
-contact-right{
+.contact-right{
     display:flex;
     flex-direction:column;
     gap:20px;
