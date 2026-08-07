@@ -347,6 +347,12 @@ body{
     background-color: #131b27;
     text-align: left;
 }
+.faq-question p{
+     text-align: left;
+     font-family:'Poppins', sans-serif;
+     color:#2ea043;
+
+}
 
 /* ==========================================================
             Asra Fatma
