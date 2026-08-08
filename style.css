@@ -314,8 +314,7 @@ body{
 }
 
 .contact-info{
-    max-width:400px;
-    width:100%;
+   width:450px;
     padding: 30px;
     background-color: #131b27;
     color: #f0f6fc;
@@ -351,6 +350,9 @@ body{
     margin: 0;
     font-family:'Poppins', sans-serif;
     font-size: 18px;
+}
+.info-item span{
+    font-size:20px;
 }
 .faq-questions{
     display:flex;
