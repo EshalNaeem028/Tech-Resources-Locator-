@@ -350,6 +350,7 @@ body{
 .info-item p{
     margin: 0;
     font-family:'Poppins', sans-serif;
+    font-size: 18px;
 }
 .faq-questions{
     display:flex;
